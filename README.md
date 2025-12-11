@@ -2,6 +2,15 @@
 
 B.Tech III Year, Computer Science (Specializing in AI) | IGDTUW, Delhi
 
+## 📞 Contact
+
+| | |
+| :--- | :--- |
+| 📧 [sulochan204btcseai23@igdtuw.ac.in](mailto:sulochana204btcseai23@igdtuw.ac.in) | 📧 [sulochana8041@gmail.com](mailto:sulochana8041@gmail.com) |
+| 📞 +91 9024002485 | 🌐 [in](www.linkedin.com/in/
+sulochana-kumari-93b4b3313
+) |
+
 ## 💻 Tech Stack:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
