@@ -1,8 +1,8 @@
-HEY 👋, I'M SULOCHANA KUMARI
+# HEY 👋, I'M SULOCHANA KUMARI
 
 B.Tech III Year, Computer Science (Specializing in AI) | IGDTUW, Delhi
 
-💻 Tech Stack:
+# 💻 Tech Stack:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
