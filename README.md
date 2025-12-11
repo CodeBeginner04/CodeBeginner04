@@ -1,9 +1,9 @@
-<center>
-#HEY 👋, I'M SULOCHANA KUMARI
+<div align="center">
 
+# HEY 👋, I'M SULOCHANA KUMARI
 B.Tech III Year, Computer Science (Specializing in AI) | IGDTUW, Delhi
-</center>
 
+</div>
 
 <br>
 
