@@ -102,10 +102,14 @@
 
 ---
 
-### 📱 [Social Media API Platform](https://github.com/CodeBeginner04/social-media-api)
+### 📱 ### 📱 Social Media API Platform
 **Production-ready RESTful API with CI/CD pipeline**
 
 `FastAPI` `PostgreSQL` `Docker` `SQLAlchemy` `Alembic` `JWT` `OAuth2` `pytest` `GitHub Actions`
+
+[![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeBeginner04/social-media-api)
+[![FastAPI Repo](https://img.shields.io/badge/FastAPI_Repo-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/CodeBeginner04/FASTAPI)
+
 
 ---
 
